@@ -1,0 +1,11 @@
+E:\Lập trình\ScreenRecorder\ScreenRecorder\bin\Debug\ScreenRecorder.exe.config
+E:\Lập trình\ScreenRecorder\ScreenRecorder\bin\Debug\ScreenRecorder.exe
+E:\Lập trình\ScreenRecorder\ScreenRecorder\bin\Debug\ScreenRecorder.pdb
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.csproj.AssemblyReference.cache
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.csproj.SuggestedBindingRedirects.cache
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.Form1.resources
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.Properties.Resources.resources
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.csproj.GenerateResource.cache
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.csproj.CoreCompileInputs.cache
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.exe
+E:\Lập trình\ScreenRecorder\ScreenRecorder\obj\Debug\ScreenRecorder.pdb
